@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="fio">Бойко Наталья Александровна</string>
+    <string name="specialization">программное и математическое обеспечение мобильных устройств</string>
+    <string name="group">9 группа</string>
+    <string name="unknown">Не определена</string>
+    <string name="landscape_orientation">Альбомная ориентация</string>
+    <string name="portrait_orientation">Вертикальная ориентация</string>
+</resources>
